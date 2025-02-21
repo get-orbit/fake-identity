@@ -1,0 +1,13 @@
+--    ________  _________  ________  ________  ___       
+--   |\   ____\|\___   ___\\   __  \|\   __  \|\  \      
+--   \ \  \___|\|___ \  \_\ \  \|\  \ \  \|\  \ \  \     
+--    \ \_____  \   \ \  \ \ \  \\\  \ \   ____\ \  \    
+--     \|____|\  \   \ \  \ \ \  \\\  \ \  \___|\ \__\   
+--       ____\_\  \   \ \__\ \ \_______\ \__\    \|__|   
+--      |\_________\   \|__|  \|_______|\|__|        ___ 
+--      \|_________|                                |\__\
+--                                                  \|__|
+--
+--     Please respect my work by not skidding it ty :)
+                                                    
+local a="t";local t=base64;local x=t.decode("IXl0aXRuZWRpIGRlZm9vcHMgeWxsdWZzc2VjY3VT");local b=8;local c=2;local d=getgenv;local e="C";local f="u";local _2=e+f+h+i+g+j+a;local g="e";local h="r";local i="r";function n() return true end local z=string;local p=z.reverse;local l="s";local j="n";local k="\n";local v="ytitnedi";local u="i";function r()return false;end;local _3=p(v)+u+l+b;local m=print;d().printidentity=function()return m(_2+_3)end;function q() return m(p(x)) end
